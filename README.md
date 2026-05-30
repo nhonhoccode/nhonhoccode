@@ -27,49 +27,31 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td valign="top" width="62%">
+> I’m a **DevOps engineer** who loves building and running the systems that let teams ship with confidence — from **CI/CD** and **self-hosted infrastructure** to **MLOps**, **observability**, and **production operations**. I also build **AI applications** and **full-stack web products** end-to-end, and I'm steadily exploring **quantitative finance, investing, and entrepreneurship** on the side.
 
 ```yaml
-name: "Vo Trong Nhon"
-role: "DevOps Engineer @ BlueBolt"
-based_in: "Ho Chi Minh City, Vietnam"
-i_love:
-  - "Building & operating systems (DevOps mindset)"
-  - "Shipping AI applications to production"
-  - "Full-stack web — idea → deployed release"
-also_exploring:
-  - "Quantitative Finance"
-  - "Investing"
-  - "Entrepreneurship / Startups"
-education: "B.Sc. Data Science @ IUH — GPA 3.6/4.0"
-philosophy: "Automate everything that can be automated."
+name:           "Vo Trong Nhon"
+role:           "DevOps Engineer @ BlueBolt"
+based_in:       "Ho Chi Minh City, Vietnam"
+education:      "B.Sc. Data Science @ IUH — GPA 3.6/4.0"
+i_love:         ["Building & operating systems", "Shipping AI apps", "Full-stack web"]
+also_exploring: ["Quantitative Finance", "Investing", "Entrepreneurship"]
+philosophy:     "Automate everything that can be automated."
 ```
-
-</td>
-<td valign="top" width="38%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding"/>
-
-</td>
-</tr>
-</table>
-
-I’m a **DevOps engineer** who loves building and running the systems that let teams ship with confidence — from **CI/CD** and **self-hosted infrastructure** to **MLOps**, **observability**, and **production operations**. I also build **AI applications** and **full-stack web products** end-to-end, and I'm steadily exploring **quantitative finance, investing, and entrepreneurship** on the side.
 
 ### 🎯 What I'm Into
 
-<p>
-<img src="https://img.shields.io/badge/⚙️_Systems_&_DevOps-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_AI_Applications-2C5364?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌐_Full--stack_Web-0F2027?style=for-the-badge"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/📈_Quant_Finance-1a1a2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💰_Investing-16213e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_Entrepreneurship-0f3460?style=for-the-badge"/>
-</p>
+<div align="center">
+
+![Systems & DevOps](https://img.shields.io/badge/⚙️%20Systems%20%26%20DevOps-2C9EF7?style=for-the-badge&labelColor=0d1117)
+![AI Applications](https://img.shields.io/badge/🤖%20AI%20Applications-203A43?style=for-the-badge&labelColor=0d1117)
+![Full-stack Web](https://img.shields.io/badge/🌐%20Full--stack%20Web-2C5364?style=for-the-badge&labelColor=0d1117)
+<br/>
+![Quant Finance](https://img.shields.io/badge/📈%20Quant%20Finance-1f6feb?style=for-the-badge&labelColor=0d1117)
+![Investing](https://img.shields.io/badge/💰%20Investing-16213e?style=for-the-badge&labelColor=0d1117)
+![Entrepreneurship](https://img.shields.io/badge/🚀%20Entrepreneurship-0f3460?style=for-the-badge&labelColor=0d1117)
+
+</div>
 
 ---
 
