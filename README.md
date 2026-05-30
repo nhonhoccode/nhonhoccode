@@ -21,13 +21,13 @@
 
 ---
 
-## 🎯 Career Objective
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/objective.svg" height="26" align="absmiddle"/> Career Objective
 
 > **DevOps engineer** building and operating **reliable platforms for AI, data science, data engineering & analytics**. Experienced in **CI/CD, self-hosted infrastructure, observability**, and **production operations** for ML services, data pipelines, and internal developer environments. Long term, I aim to expand into **cloud, cybersecurity, full-stack web, and foundational quantitative finance**.
 
 ---
 
-## 📫 Contact
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/contact.svg" height="26" align="absmiddle"/> Contact
 
 <table>
 <tr>
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/about.svg" height="26" align="absmiddle"/> About Me
 
 <table>
 <tr>
@@ -94,7 +94,7 @@ investing, and entrepreneurship** on the side.
 
 ---
 
-## 📜 Certifications
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/certifications.svg" height="26" align="absmiddle"/> Certifications
 
 <div align="center">
 
@@ -133,7 +133,7 @@ investing, and entrepreneurship** on the side.
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/techstack.svg" height="26" align="absmiddle"/> Tech Stack
 
 <div align="center">
 
@@ -161,7 +161,7 @@ investing, and entrepreneurship** on the side.
 
 ---
 
-## 📌 Featured Projects
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/projects.svg" height="26" align="absmiddle"/> Featured Projects
 
 <table>
 <tr>
@@ -241,7 +241,7 @@ investing, and entrepreneurship** on the side.
 
 ---
 
-## 🏗️ Architecture Highlights
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/architecture.svg" height="26" align="absmiddle"/> Architecture Highlights
 
 <details open>
 <summary><b>🚕 NYC Taxi Demand — MLOps Pipeline</b></summary>
@@ -290,7 +290,7 @@ flowchart LR
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/stats.svg" height="26" align="absmiddle"/> GitHub Stats
 
 <div align="center">
 
@@ -305,7 +305,7 @@ flowchart LR
 
 ---
 
-## 🐍 Contribution Graph
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/contribution.svg" height="26" align="absmiddle"/> Contribution Graph
 
 <div align="center">
 
@@ -321,7 +321,7 @@ flowchart LR
 
 ---
 
-## 💼 Experience
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/experience.svg" height="26" align="absmiddle"/> Experience
 
 **🔧 System Administrator / DevOps Engineer** — *BlueBolt*  ·  `10/2025 – Present`
 - Operate **Proxmox VE** for developer, internal & production environments
@@ -334,7 +334,7 @@ flowchart LR
 
 ---
 
-## 🤝 Connect With Me
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/connect.svg" height="26" align="absmiddle"/> Connect With Me
 
 <div align="center">
 
