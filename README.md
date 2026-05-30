@@ -363,13 +363,19 @@ flowchart LR
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhonhoccode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2c9ef7&line=2c9ef7&point=ffffff&area=true" width="100%" alt="Activity graph"/>
+
+<!--
+  Snake animation: enable GitHub Actions on this repo, then run the
+  "Generate Snake Animation" workflow (Actions tab → Run workflow).
+  It creates the `output` branch with the SVGs below. Uncomment after the first run:
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhonhoccode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2c9ef7&line=2c9ef7&point=ffffff&area=true" width="100%" alt="Activity graph"/>
+-->
 
 </div>
 
