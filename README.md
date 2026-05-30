@@ -348,8 +348,7 @@ flowchart LR
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.hackclub.dev/api?username=nhonhoccode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="GitHub stats"/>
-<img height="170em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=nhonhoccode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&langs_count=8" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/metrics.svg" width="100%" alt="GitHub metrics — activity, languages, repositories, isometric calendar"/>
 
 <br/>
 
