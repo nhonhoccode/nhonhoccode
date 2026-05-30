@@ -1,12 +1,17 @@
-<!-- ====================== HEADER BANNER ====================== -->
-<a href="https://github.com/nhonhoccode">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vo%20Trong%20Nhon&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=DevOps%20Engineer%20%C2%B7%20MLOps%20%C2%B7%20Platforms%20for%20AI%2C%20Data%20%26%20Analytics&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
-</a>
-
-<!-- ====================== TYPING ANIMATION ====================== -->
+<!-- ====================== HEADER ====================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9EF7&center=true&vCenter=true&width=720&lines=Building+reliable+platforms+for+AI+%26+Data;CI%2FCD+%E2%80%A2+Self-hosted+infra+%E2%80%A2+Observability;MLOps+%7C+Docker+%7C+Proxmox+%7C+Airflow+%7C+MLflow;Turning+data+pipelines+into+production+systems)](https://git.io/typing-svg)
+<a href="https://github.com/nhonhoccode">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=1000&color=2C9EF7&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Vo+Trong+Nhon+%F0%9F%91%8B" alt="Vo Trong Nhon"/>
+</a>
+
+### 🚀 DevOps Engineer&nbsp;·&nbsp;MLOps&nbsp;·&nbsp;Platforms for AI, Data &amp; Analytics
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+<!-- ====================== TYPING ANIMATION ====================== -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+reliable+platforms+for+AI+%26+Data;CI%2FCD+%E2%80%A2+Self-hosted+infra+%E2%80%A2+Observability;MLOps+%7C+Docker+%7C+Proxmox+%7C+Airflow+%7C+MLflow;Turning+data+pipelines+into+production+systems)](https://git.io/typing-svg)
 
 <!-- ====================== SOCIAL / STATUS BADGES ====================== -->
 <!-- TODO: replace LINKEDIN_URL below with your real LinkedIn profile link -->
@@ -48,12 +53,34 @@ I’m a **DevOps engineer** who builds and operates the systems that let data sc
 
 <div align="center">
 
-| 🥇 Competition | 🎯 Result | 📅 Year |
-|:---|:---|:---:|
-| **VLSP 2025 — Evaluation Campaign** | 🥈 **Top 2** · Semantic Parsing | 2025 |
-| **VLSP 2025 — Evaluation Campaign** | 🏅 **Top 6** · Numerical Reasoning QA | 2025 |
-| **UIT Challenge 2024** | 🥇 **First Prize** | 2024 |
-| **Multimodal Sarcasm (UITC 2024)** | 🥇 **1st on public leaderboard** · F1 = 44.75% | 2024 |
+<table>
+<tr>
+<td align="center" width="25%">
+<h1>🥇</h1>
+<b>First Prize</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/UIT%20Challenge-2024-FFD700?style=flat-square&labelColor=1a1a1a"/>
+</td>
+<td align="center" width="25%">
+<h1>🥈</h1>
+<b>Top 2</b>
+<br/><sub>Semantic Parsing</sub><br/><br/>
+<img src="https://img.shields.io/badge/VLSP-2025-C0C0C0?style=flat-square&labelColor=1a1a1a"/>
+</td>
+<td align="center" width="25%">
+<h1>🏅</h1>
+<b>Top 6</b>
+<br/><sub>Numerical Reasoning QA</sub><br/><br/>
+<img src="https://img.shields.io/badge/VLSP-2025-CD7F32?style=flat-square&labelColor=1a1a1a"/>
+</td>
+<td align="center" width="25%">
+<h1>🥇</h1>
+<b>1st Leaderboard</b>
+<br/><sub>Sarcasm · F1 = 44.75%</sub><br/><br/>
+<img src="https://img.shields.io/badge/UITC-2024-FFD700?style=flat-square&labelColor=1a1a1a"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -283,7 +310,7 @@ I’m a **DevOps engineer** who builds and operates the systems that let data sc
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 <i>⭐️ Thanks for visiting — let's build reliable systems together.</i>
 
