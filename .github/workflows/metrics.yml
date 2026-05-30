@@ -16,7 +16,7 @@ permissions:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 15
     steps:
       - name: Generate metrics card (camo-proof, committed SVG)
         uses: lowlighter/metrics@latest
@@ -29,19 +29,13 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Asia/Ho_Chi_Minh
 
-          # Top languages — keep Jupyter & HTML but rebalance proportions.
-          # In-depth analysis adds a "recently-used" bar weighted by actual
-          # lines of code edited (not raw bytes), so notebook byte-bloat no
-          # longer dominates and Python/C++/JS/TS show their real weight.
+          # Top languages — show language NAMES only (no % / byte numbers),
+          # just the coloured proportion bar. Keep Jupyter & HTML (real DS /
+          # web work); drop pure config / styling noise.
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 12
           plugin_languages_threshold: 0%
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_recent_days: 0
-          plugin_languages_recent_load: 500
+          plugin_languages_sections: most-used
           plugin_languages_ignored: >-
             css, scss, less, tex, roff, dockerfile, makefile,
             batchfile, powershell, procfile, dotenv
