@@ -6,8 +6,7 @@ on:
     - cron: "0 0 * * *"
   # Allow manual run from the Actions tab
   workflow_dispatch:
-  # Regenerate whenever main changes (commits made by GITHUB_TOKEN do NOT
-  # re-trigger this, so there is no loop)
+  # Regenerate whenever main changes
   push:
     branches: ["main"]
 
@@ -32,8 +31,8 @@ jobs:
 
           # Top languages — keep Jupyter & HTML but rebalance proportions.
           # In-depth analysis adds a "recently-used" bar weighted by actual
-          # lines of code edited (not raw bytes), so notebook output/byte-bloat
-          # no longer dominates and Python/C++/JS/TS show their real weight.
+          # lines of code edited (not raw bytes), so notebook byte-bloat no
+          # longer dominates and Python/C++/JS/TS show their real weight.
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 12
