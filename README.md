@@ -1,13 +1,9 @@
-<!-- ====================== HEADER ====================== -->
+<!-- ====================== HERO BANNER ====================== -->
 <div align="center">
 
 <a href="https://github.com/nhonhoccode">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=1000&color=2C9EF7&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Vo+Trong+Nhon+%F0%9F%91%8B" alt="Vo Trong Nhon"/>
+  <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/banner.svg" width="100%" alt="Vo Trong Nhon — DevOps Engineer · MLOps · AI Apps · Full-stack"/>
 </a>
-
-### 🚀 DevOps Engineer&nbsp;·&nbsp;MLOps&nbsp;·&nbsp;Platforms for AI, Data &amp; Analytics
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 
@@ -27,66 +23,85 @@
 
 ## 🚀 About Me
 
-> I’m a **DevOps engineer** who loves building and running the systems that let teams ship with confidence — from **CI/CD** and **self-hosted infrastructure** to **MLOps**, **observability**, and **production operations**. I also build **AI applications** and **full-stack web products** end-to-end, and I'm steadily exploring **quantitative finance, investing, and entrepreneurship** on the side.
+<table>
+<tr>
+<td valign="top" width="58%">
 
 ```yaml
 name:           "Vo Trong Nhon"
 role:           "DevOps Engineer @ BlueBolt"
 based_in:       "Ho Chi Minh City, Vietnam"
-education:      "B.Sc. Data Science @ IUH — GPA 3.6/4.0"
-i_love:         ["Building & operating systems", "Shipping AI apps", "Full-stack web"]
-also_exploring: ["Quantitative Finance", "Investing", "Entrepreneurship"]
+education:      "B.Sc. Data Science @ IUH (GPA 3.6/4.0)"
 philosophy:     "Automate everything that can be automated."
 ```
 
-### 🎯 What I'm Into
+I’m a **DevOps engineer** who loves building and running the
+systems that let teams ship with confidence — from **CI/CD**
+and **self-hosted infrastructure** to **MLOps**, **observability**,
+and **production operations**.
 
-<div align="center">
+I also build **AI applications** and **full-stack web products**
+end-to-end, and I'm steadily exploring **quant finance,
+investing, and entrepreneurship** on the side.
 
-![Systems & DevOps](https://img.shields.io/badge/⚙️%20Systems%20%26%20DevOps-2C9EF7?style=for-the-badge&labelColor=0d1117)
-![AI Applications](https://img.shields.io/badge/🤖%20AI%20Applications-203A43?style=for-the-badge&labelColor=0d1117)
-![Full-stack Web](https://img.shields.io/badge/🌐%20Full--stack%20Web-2C5364?style=for-the-badge&labelColor=0d1117)
-<br/>
-![Quant Finance](https://img.shields.io/badge/📈%20Quant%20Finance-1f6feb?style=for-the-badge&labelColor=0d1117)
-![Investing](https://img.shields.io/badge/💰%20Investing-16213e?style=for-the-badge&labelColor=0d1117)
-![Entrepreneurship](https://img.shields.io/badge/🚀%20Entrepreneurship-0f3460?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h1>🥇</h1>
-<b>First Prize</b>
-<br/><br/>
-<img src="https://img.shields.io/badge/UIT%20Challenge-2024-FFD700?style=flat-square&labelColor=1a1a1a"/>
 </td>
-<td align="center" width="25%">
-<h1>🥈</h1>
-<b>Top 2</b>
-<br/><sub>Semantic Parsing</sub><br/><br/>
-<img src="https://img.shields.io/badge/VLSP-2025-C0C0C0?style=flat-square&labelColor=1a1a1a"/>
-</td>
-<td align="center" width="25%">
-<h1>🏅</h1>
-<b>Top 6</b>
-<br/><sub>Numerical Reasoning QA</sub><br/><br/>
-<img src="https://img.shields.io/badge/VLSP-2025-CD7F32?style=flat-square&labelColor=1a1a1a"/>
-</td>
-<td align="center" width="25%">
-<h1>🥇</h1>
-<b>1st Leaderboard</b>
-<br/><sub>Sarcasm · F1 = 44.75%</sub><br/><br/>
-<img src="https://img.shields.io/badge/UITC-2024-FFD700?style=flat-square&labelColor=1a1a1a"/>
+<td valign="top" width="42%">
+
+**🎯 What I'm Into**
+
+`⚙️` &nbsp; Systems &amp; DevOps <br/>
+`🤖` &nbsp; AI Applications <br/>
+`🌐` &nbsp; Full-stack Web <br/>
+`📈` &nbsp; Quantitative Finance <br/>
+`💰` &nbsp; Investing <br/>
+`🚀` &nbsp; Entrepreneurship <br/>
+
+**⚡ Currently**
+
+`🔧` &nbsp; Running platforms @ BlueBolt <br/>
+`🌱` &nbsp; Cloud · Cybersecurity <br/>
+`💬` &nbsp; Open to collaboration
+
 </td>
 </tr>
 </table>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/AWS-Academy-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<br/><br/>
+<b>AWS Academy</b><br/>
+<sub>Cloud Foundations &amp; AI</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/IELTS-5.5-B22222?style=for-the-badge&logo=cambridge&logoColor=white" alt="IELTS"/>
+<br/><br/>
+<b>IELTS</b><br/>
+<sub>Overall Band 5.5</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/More-coming%20soon-2C9EF7?style=for-the-badge&logo=googlescholar&logoColor=white" alt="More"/>
+<br/><br/>
+<b>Always Learning</b><br/>
+<sub>More certifications in progress</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<sub>🏅 <b>Competition honors:</b> 🥇 First Prize — UIT Challenge 2024 &nbsp;·&nbsp; 🥈 Top 2 — VLSP 2025 (Semantic Parsing) &nbsp;·&nbsp; 🥉 Top 6 — VLSP 2025 (Numerical Reasoning) &nbsp;·&nbsp; 🥇 1st Leaderboard — Multimodal Sarcasm UITC 2024</sub>
 
 </div>
 
@@ -94,51 +109,72 @@ philosophy:     "Automate everything that can be automated."
 
 ## 🛠️ Tech Stack
 
-#### 💻 Languages & Data Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-#### ⚙️ DevOps & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-#### 🌐 Infrastructure, Networking & Hosting
-![Proxmox](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS%20%C2%B7%20SSL-2C5364?style=flat-square&logo=letsencrypt&logoColor=white)
-
-#### 🕸️ Web & Full-stack
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-#### 📊 MLOps, Orchestration & Observability
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-#### 🤖 AI / ML & App Support
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2C5364?style=flat-square&logo=tree&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+<table>
+<tr>
+<td valign="top"><b>💻 Languages &amp; Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>⚙️ DevOps &amp; CI/CD</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🌐 Infra &amp; Hosting</b></td>
+<td>
+<img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/DNS%20%C2%B7%20SSL-2C5364?style=flat-square&logo=letsencrypt&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🕸️ Web &amp; Full-stack</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>📊 MLOps &amp; Observability</b></td>
+<td>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🤖 AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-2C5364?style=flat-square&logo=tree&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -200,69 +236,74 @@ philosophy:     "Automate everything that can be automated."
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 😀 [Facial Emotion Recognition System](https://github.com/nhonhoccode/Facial-Emotion-Recognition)
-> Emotion classification on **CK+** with a deployable demo.
-
-- 🎯 Best experiment reached **95% accuracy**
-- 🧪 Compared **HOG / SIFT** vs **CNN** models
-- 🌐 Inference wrapped in a **Django** web app
-
-`Python` · `TensorFlow` · `OpenCV` · `Django`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚖️ [Vietnamese Legal RAG](https://github.com/nhonhoccode/vn-legal-rag-zalo-2021)
-> Retrieval-Augmented Generation for Vietnamese legal text.
-
-- 🔎 Fine-tuned sentence embeddings + **hard-negative mining**
-- 📑 Retrieval over legal corpora
-- 🧩 RAG pipeline with FastAPI + Next.js front-end
-
-`Python` · `RAG` · `Embeddings` · `FastAPI`
-
-</td>
-</tr>
 </table>
 
 <details>
-<summary>🔬 <b>More projects</b> (VLSP 2025, ETL, and more)</summary>
+<summary>🔬 <b>More projects</b> (VLSP 2025, RAG, ETL, and more)</summary>
 
 <br/>
 
-- ⭐ **[ViAMR — VLSP 2025](https://github.com/nhonhoccode/ViAMR_VLSP2025)** — Vietnamese AMR / semantic parsing (🥈 **Top 2** Semantic Parsing, 🏅 **Top 6** Numerical Reasoning QA).
+- ⚖️ **[Vietnamese Legal RAG](https://github.com/nhonhoccode/vn-legal-rag-zalo-2021)** — RAG over Vietnamese legal text with fine-tuned embeddings + hard-negative mining (FastAPI + Next.js).
+- 😀 **[Facial Emotion Recognition](https://github.com/nhonhoccode/Facial-Emotion-Recognition)** — CK+ emotion classification (95% acc); HOG/SIFT vs CNN; Django demo.
+- ⭐ **[ViAMR — VLSP 2025](https://github.com/nhonhoccode/ViAMR_VLSP2025)** — Vietnamese AMR / semantic parsing (🥈 Top 2 Semantic Parsing, 🥉 Top 6 Numerical Reasoning QA).
 - 🛒 **[Customer Propensity to Purchase](https://github.com/nhonhoccode/Customer-propensity-to-purchase-Docker-)** — Airflow-orchestrated ETL + Dockerized batch pipeline with a prediction UI.
-- 📊 **[Intro to Data Science Project](https://github.com/nhonhoccode/IntroDataScience_Project)** — end-to-end data science coursework project.
 
 </details>
-
-### 🔝 Pinned Repository Cards
-
-<div align="center">
-
-<a href="https://github.com/nhonhoccode/MLOps-System-for-NYC-taxi-Demand-Forecasting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhonhoccode&repo=MLOps-System-for-NYC-taxi-Demand-Forecasting&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="NYC Taxi MLOps"/>
-</a>
-<a href="https://github.com/nhonhoccode/agentic-data-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhonhoccode&repo=agentic-data-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="Agentic Data Platform"/>
-</a>
-<a href="https://github.com/nhonhoccode/bigdata-project-finetuneLLMs-on-domain-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhonhoccode&repo=bigdata-project-finetuneLLMs-on-domain-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="LLM Fine-tuning"/>
-</a>
-<a href="https://github.com/nhonhoccode/Multimodal-Sarcasm-Detection-for-UITC2024">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhonhoccode&repo=Multimodal-Sarcasm-Detection-for-UITC2024&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="Multimodal Sarcasm"/>
-</a>
-
-</div>
 
 <div align="center">
 
 [![See all projects](https://img.shields.io/badge/See%20all%20projects-%E2%86%92-2c9ef7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhonhoccode?tab=repositories)
 
 </div>
+
+---
+
+## 🏗️ Architecture Highlights
+
+<details open>
+<summary><b>🚕 NYC Taxi Demand — MLOps Pipeline</b></summary>
+
+```mermaid
+flowchart LR
+    A["Raw NYC Trip Data<br/>~25 GB"] --> B["Ingestion &<br/>Cleaning"]
+    B --> C["Feature Engineering<br/>temporal · lag · rolling · spatial<br/>263 zones"]
+    C --> D["Model Training<br/>ensemble"]
+    D --> E["MLflow<br/>experiments + registry"]
+    E --> F["Serving API"]
+    F --> G["Hourly Demand<br/>Predictions"]
+    P["Prefect<br/>orchestration"] -. schedules .-> B
+    P -. schedules .-> D
+    F --> M["Prometheus + Grafana<br/>monitoring · drift"]
+    M -- drift detected --> D
+    CI["GitHub Actions<br/>CI/CD"] -. deploy .-> F
+    classDef accent fill:#2C9EF7,color:#ffffff,stroke:#1b6fb3,stroke-width:1px;
+    class C,E,M,P accent
+```
+
+</details>
+
+<details>
+<summary><b>🌐 Self-hosted DevOps Infrastructure</b></summary>
+
+```mermaid
+flowchart LR
+    U["Users / Internet"] --> CF["Cloudflare<br/>DNS · SSL · WAF"]
+    CF --> FW["pfSense<br/>Firewall"]
+    FW --> RP["Reverse Proxy<br/>Nginx PM · aaPanel · DirectAdmin"]
+    RP --> PVE
+    subgraph PVE["Proxmox VE Host"]
+        DEV["Dev Env"]
+        INT["Internal Tools"]
+        PROD["Production Apps"]
+        GL["Self-hosted GitLab<br/>CI/CD + Runners"]
+    end
+    GL -- deploy --> PROD
+    BN["Bunny.net<br/>CDN"] -. delivery .-> U
+    classDef accent fill:#2C9EF7,color:#ffffff,stroke:#1b6fb3,stroke-width:1px;
+    class CF,FW,GL,PROD accent
+```
+
+</details>
 
 ---
 
@@ -276,10 +317,6 @@ philosophy:     "Automate everything that can be automated."
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=nhonhoccode&theme=tokyonight&hide_border=true&background=0D1117&ring=2c9ef7&fire=2c9ef7&currStreakLabel=2c9ef7" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nhonhoccode&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
 
