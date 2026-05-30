@@ -140,22 +140,12 @@ investing, and entrepreneurship** on the side.
 </tr>
 </table>
 
-<b><img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/award.svg" height="16" align="absmiddle"/> Competition Honors</b>
+<sub><b><img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/award.svg" height="14" align="absmiddle"/> COMPETITION HONORS</b></sub>
 
-<p>
-<img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/medal_gold.svg" height="20" align="absmiddle"/>
-<img src="https://img.shields.io/badge/First%20Prize-UIT%20Challenge%202024-FFD700?style=for-the-badge&labelColor=0D1117" alt="First Prize — UIT Challenge 2024"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/medal_silver.svg" height="20" align="absmiddle"/>
-<img src="https://img.shields.io/badge/Top%202-VLSP%202025%20%C2%B7%20Semantic%20Parsing-C0C0C0?style=for-the-badge&labelColor=0D1117" alt="Top 2 — VLSP 2025 Semantic Parsing"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/medal_bronze.svg" height="20" align="absmiddle"/>
-<img src="https://img.shields.io/badge/Top%206-VLSP%202025%20%C2%B7%20Numerical%20Reasoning-CD7F32?style=for-the-badge&labelColor=0D1117" alt="Top 6 — VLSP 2025 Numerical Reasoning"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/medal_gold.svg" height="20" align="absmiddle"/>
-<img src="https://img.shields.io/badge/1st%20Leaderboard-Sarcasm%20UITC%202024%20%C2%B7%20F1%2044.75%25-FFD700?style=for-the-badge&labelColor=0D1117" alt="1st Leaderboard — Multimodal Sarcasm UITC 2024"/>
-</p>
+<img src="https://img.shields.io/badge/First%20Prize-UIT%20Challenge%202024-FFD700?style=flat-square&labelColor=0D1117" alt="First Prize — UIT Challenge 2024"/>
+<img src="https://img.shields.io/badge/Top%202-VLSP%202025%20Semantic%20Parsing-C0C0C0?style=flat-square&labelColor=0D1117" alt="Top 2 — VLSP 2025 Semantic Parsing"/>
+<img src="https://img.shields.io/badge/Top%206-VLSP%202025%20Numerical%20Reasoning-CD7F32?style=flat-square&labelColor=0D1117" alt="Top 6 — VLSP 2025 Numerical Reasoning"/>
+<img src="https://img.shields.io/badge/1st%20Leaderboard-Sarcasm%20UITC%202024%20(F1%2044.75%25)-FFD700?style=flat-square&labelColor=0D1117" alt="1st Leaderboard — Multimodal Sarcasm UITC 2024"/>
 
 </div>
 
@@ -354,14 +344,9 @@ flowchart LR
 
 ---
 
-## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/stats.svg" height="26" align="absmiddle"/> GitHub Stats
+## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/stats.svg" height="26" align="absmiddle"/> GitHub Activity
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.hackclub.dev/api?username=nhonhoccode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="GitHub stats"/>
-<img height="180em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=nhonhoccode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&langs_count=8" alt="Top languages"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=nhonhoccode&theme=tokyonight&hide_border=true&background=0D1117&ring=2c9ef7&fire=2c9ef7&currStreakLabel=2c9ef7" alt="GitHub streak"/>
 
