@@ -30,16 +30,17 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Asia/Ho_Chi_Minh
 
-          # Top languages — show ALL detected languages (no threshold),
-          # excluding notebooks/markup so real languages stand out
+          # Top languages — show as many real languages as possible.
+          # Keep Jupyter Notebook & HTML (genuine DS / web work); only drop
+          # pure config / styling noise so the bar stays meaningful.
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 12
           plugin_languages_threshold: 0%
           plugin_languages_sections: most-used
           plugin_languages_ignored: >-
-            jupyter notebook, html, css, tex, roff, scss, less,
-            dockerfile, makefile, batchfile, powershell
+            css, scss, less, tex, roff, dockerfile, makefile,
+            batchfile, powershell, procfile, dotenv
 
           # Year-long commit calendar (isometric)
           plugin_isocalendar: yes

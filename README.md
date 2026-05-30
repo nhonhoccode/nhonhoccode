@@ -101,7 +101,7 @@ investing, and entrepreneurship** on the side.
 <td><b>Location</b></td>
 <td>Ho Chi Minh City, Vietnam</td>
 <td><b>Open to</b></td>
-<td>DevOps · MLOps · Full-stack roles</td>
+<td>DevOps · MLOps · AI Engineer · Data Science · Full-stack roles</td>
 </tr>
 </table>
 
