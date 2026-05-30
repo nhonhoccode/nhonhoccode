@@ -72,20 +72,21 @@ investing, and entrepreneurship** on the side.
 </td>
 <td valign="top" width="42%">
 
-**🎯 What I'm Into**
+<b>Focus Areas</b>
 
-`⚙️` &nbsp; Systems &amp; DevOps <br/>
-`🤖` &nbsp; AI Applications <br/>
-`🌐` &nbsp; Full-stack Web <br/>
-`📈` &nbsp; Quantitative Finance <br/>
-`💰` &nbsp; Investing <br/>
-`🚀` &nbsp; Entrepreneurship <br/>
+▸ &nbsp; Systems &amp; DevOps <br/>
+▸ &nbsp; AI Applications <br/>
+▸ &nbsp; Full-stack Web <br/>
+▸ &nbsp; Quantitative Finance <br/>
+▸ &nbsp; Investing &amp; Entrepreneurship <br/>
 
-**⚡ Currently**
+<br/>
 
-`🔧` &nbsp; Running platforms @ BlueBolt <br/>
-`🌱` &nbsp; Cloud · Cybersecurity <br/>
-`💬` &nbsp; Open to collaboration
+<b>Currently</b>
+
+▸ &nbsp; Running platforms @ BlueBolt <br/>
+▸ &nbsp; Exploring Cloud &amp; Cybersecurity <br/>
+▸ &nbsp; Open to collaboration
 
 </td>
 </tr>
