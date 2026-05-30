@@ -9,7 +9,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9EF7&center=true&vCenter=true&width=720&lines=Building+reliable+platforms+for+AI+%26+Data;CI%2FCD+%E2%80%A2+Self-hosted+infra+%E2%80%A2+Observability;MLOps+%7C+Docker+%7C+Proxmox+%7C+Airflow+%7C+MLflow;Turning+data+pipelines+into+production+systems)](https://git.io/typing-svg)
 
 <!-- ====================== SOCIAL / STATUS BADGES ====================== -->
-<a href="https://www.linkedin.com/in/votrongnhon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<!-- TODO: replace LINKEDIN_URL below with your real LinkedIn profile link -->
+<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:votrongnhonwork29324@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/nhonhoccode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City-Vietnam-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -105,64 +106,119 @@ I’m a **DevOps engineer** who builds and operates the systems that let data sc
 <tr>
 <td width="50%" valign="top">
 
-### 🚕 NYC Taxi Demand Forecasting — MLOps Platform
+### 🚕 [NYC Taxi Demand Forecasting — MLOps Platform](https://github.com/nhonhoccode/MLOps-System-for-NYC-taxi-Demand-Forecasting) ⭐
 > End-to-end hourly demand forecasting across **263 NYC zones**.
 
 - 📉 Best setup achieved **MAPE 12.3%**
 - 🗄️ Processed **~25 GB** of trip data into zone-level features (temporal, lag, rolling-window, spatial)
 - 🔬 Experiment & model tracking with **MLflow**
-- 🔁 **Prefect** jobs + **Prometheus/Grafana** monitoring + **GitHub Actions** CI/CD for scheduled runs, drift checks & retraining
+- 🔁 **Prefect** + **Prometheus/Grafana** + **GitHub Actions** CI/CD for scheduled runs, drift checks & retraining
 
 `Python` · `MLflow` · `Prefect` · `Prometheus` · `Grafana` · `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 😀 Facial Emotion Recognition System
-> Emotion classification on the **CK+** dataset with a deployable demo.
+### 🤖 [Agentic Data Platform](https://github.com/nhonhoccode/agentic-data-platform)
+> E-commerce analytics platform with a multi-agent layer.
 
-- 🎯 Best experiment reached **95% accuracy**
-- 🧪 Compared **HOG / SIFT** pipelines vs **CNN** models
-- 🧰 Preprocessing, normalization & augmentation pipeline
-- 🌐 Wrapped inference in a **Django** web app for demos
+- 🏗️ Data-engineering pipelines + serving layer
+- 🕹️ **Multi-agent orchestration** for analytics workflows
+- 🔌 API integration & reusable components
+- 📦 Containerized, production-oriented design
 
-`Python` · `TensorFlow` · `OpenCV` · `Django`
+`Python` · `Data Engineering` · `LLM Agents` · `Docker`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 Multimodal Sarcasm Detection — UITC 2024
+### 🧠 [Fine-tuning LLMs on Domain Data (Big Data)](https://github.com/nhonhoccode/bigdata-project-finetuneLLMs-on-domain-)
+> Large-scale fine-tuning of LLMs for domain-specific tasks.
+
+- 📚 Domain-adaptation of language models
+- ⚙️ Big-data preprocessing & training pipeline
+- 🧪 Experiment tracking & evaluation
+
+`Python` · `Transformers` · `PyTorch` · `Big Data`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎭 [Multimodal Sarcasm Detection — UITC 2024](https://github.com/nhonhoccode/Multimodal-Sarcasm-Detection-for-UITC2024) 🥇
 > 🥇 **1st place** on the public leaderboard (Team *Faster-United*).
 
 - 🏅 **F1-score = 44.75%**
 - 🖼️ Text + image + generated captions (multimodal)
-- 🔡 **VinTern-1B-v2** captioning · **ViT** + **Jina Embedding v3** features
+- 🔡 **VinTern-1B-v2** captioning · **ViT** + **Jina Embedding v3**
 - 🗳️ 2/3/4-class classifiers (CE & Focal Loss) + voting ensemble
 
 `Python` · `ViT` · `Transformers` · `PyTorch`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🛒 Customer Propensity to Purchase
-> Batch pipeline for purchase-propensity modeling.
+### 😀 [Facial Emotion Recognition System](https://github.com/nhonhoccode/Facial-Emotion-Recognition)
+> Emotion classification on **CK+** with a deployable demo.
 
-- 🧹 Cleaning, standardization & feature tables
-- 🔄 ETL orchestrated with **Airflow**
-- 📦 Packaged & reproducible with **Docker**
-- 🖥️ Simple web UI to inspect predictions
+- 🎯 Best experiment reached **95% accuracy**
+- 🧪 Compared **HOG / SIFT** vs **CNN** models
+- 🌐 Inference wrapped in a **Django** web app
 
-`Python` · `Airflow` · `Docker` · `Jupyter`
+`Python` · `TensorFlow` · `OpenCV` · `Django`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ [Vietnamese Legal RAG](https://github.com/nhonhoccode/vn-legal-rag-zalo-2021)
+> Retrieval-Augmented Generation for Vietnamese legal text.
+
+- 🔎 Fine-tuned sentence embeddings + **hard-negative mining**
+- 📑 Retrieval over legal corpora
+- 🧩 RAG pipeline with FastAPI + Next.js front-end
+
+`Python` · `RAG` · `Embeddings` · `FastAPI`
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary>🔬 <b>More projects</b> (VLSP 2025, ETL, and more)</summary>
+
+<br/>
+
+- ⭐ **[ViAMR — VLSP 2025](https://github.com/nhonhoccode/ViAMR_VLSP2025)** — Vietnamese AMR / semantic parsing (🥈 **Top 2** Semantic Parsing, 🏅 **Top 6** Numerical Reasoning QA).
+- 🛒 **[Customer Propensity to Purchase](https://github.com/nhonhoccode/Customer-propensity-to-purchase-Docker-)** — Airflow-orchestrated ETL + Dockerized batch pipeline with a prediction UI.
+- 📊 **[Intro to Data Science Project](https://github.com/nhonhoccode/IntroDataScience_Project)** — end-to-end data science coursework project.
+
+</details>
+
+### 🔝 Pinned Repository Cards
+
 <div align="center">
 
-[![See more on my repositories](https://img.shields.io/badge/See%20all%20projects-%E2%86%92-2c9ef7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhonhoccode?tab=repositories)
+<a href="https://github.com/nhonhoccode/MLOps-System-for-NYC-taxi-Demand-Forecasting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhonhoccode&repo=MLOps-System-for-NYC-taxi-Demand-Forecasting&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="NYC Taxi MLOps"/>
+</a>
+<a href="https://github.com/nhonhoccode/agentic-data-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhonhoccode&repo=agentic-data-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="Agentic Data Platform"/>
+</a>
+<a href="https://github.com/nhonhoccode/bigdata-project-finetuneLLMs-on-domain-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhonhoccode&repo=bigdata-project-finetuneLLMs-on-domain-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="LLM Fine-tuning"/>
+</a>
+<a href="https://github.com/nhonhoccode/Multimodal-Sarcasm-Detection-for-UITC2024">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhonhoccode&repo=Multimodal-Sarcasm-Detection-for-UITC2024&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="Multimodal Sarcasm"/>
+</a>
+
+</div>
+
+<div align="center">
+
+[![See all projects](https://img.shields.io/badge/See%20all%20projects-%E2%86%92-2c9ef7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhonhoccode?tab=repositories)
 
 </div>
 
@@ -221,7 +277,8 @@ I’m a **DevOps engineer** who builds and operates the systems that let data sc
 <div align="center">
 
 <a href="mailto:votrongnhonwork29324@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/votrongnhon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- TODO: replace LINKEDIN_URL with your real LinkedIn profile link -->
+<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/nhonhoccode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
