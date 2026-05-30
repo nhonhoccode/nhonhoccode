@@ -7,12 +7,12 @@
 <div align="center">
 
 <a href="https://github.com/nhonhoccode">
-  <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/banner.svg" width="100%" alt="Vo Trong Nhon — DevOps Engineer · MLOps · AI Apps · Full-stack"/>
+  <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/banner.svg" width="100%" alt="Vo Trong Nhon — DevOps Engineer · MLOps · AI Engineer · Full-stack"/>
 </a>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+%26+operating+reliable+systems;DevOps+%E2%80%A2+MLOps+%E2%80%A2+AI+Applications;Full-stack+Web+%E2%80%94+from+idea+to+deployed+release;Curious+about+Quant+Finance%2C+Investing+%26+Startups)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+%26+operating+reliable+systems;DevOps+%E2%80%A2+MLOps+%E2%80%A2+AI+Engineer;Full-stack+Web+%E2%80%94+from+idea+to+deployed+release;Curious+about+Quant+Finance%2C+Investing+%26+Startups)](https://git.io/typing-svg)
 
 <!-- ====================== SOCIAL / STATUS BADGES ====================== -->
 <a href="https://www.linkedin.com/in/maximus-nhon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -28,7 +28,9 @@
 
 ## <img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/objective.svg" height="26" align="absmiddle"/> Career Objective
 
-> **DevOps engineer** building and operating **reliable platforms for AI, data science, data engineering & analytics**. Experienced in **CI/CD, self-hosted infrastructure, observability**, and **production operations** for ML services, data pipelines, and internal developer environments. Long term, I aim to expand into **cloud, cybersecurity, full-stack web, and foundational quantitative finance**.
+> I design, ship, and operate the infrastructure that turns models and ideas into **dependable production systems**. My work spans **CI/CD automation, self-hosted infrastructure, MLOps, and end-to-end observability** — keeping ML services, data pipelines, and developer environments fast, reliable, and reproducible.
+>
+> I move comfortably across the stack: **DevOps & platform engineering**, **AI/ML engineering**, and **full-stack web** — from the first commit to a monitored, deployed release. Beyond engineering, I'm driven by a long-term curiosity for **cloud & cybersecurity, quantitative finance, investing, and entrepreneurship**, and I'm always looking for hard problems where reliable systems create real leverage.
 
 ---
 
@@ -140,14 +142,20 @@ investing, and entrepreneurship** on the side.
 
 <b><img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/award.svg" height="16" align="absmiddle"/> Competition Honors</b>
 
-<table width="100%">
-<tr>
-<td align="center"><b>First Prize</b><br/><sub>UIT Challenge 2024</sub></td>
-<td align="center"><b>Top 2</b><br/><sub>VLSP 2025 · Semantic Parsing</sub></td>
-<td align="center"><b>Top 6</b><br/><sub>VLSP 2025 · Numerical Reasoning</sub></td>
-<td align="center"><b>1st Leaderboard</b><br/><sub>Multimodal Sarcasm UITC 2024 · F1 44.75%</sub></td>
-</tr>
-</table>
+<p>
+<img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/medal_gold.svg" height="20" align="absmiddle"/>
+<img src="https://img.shields.io/badge/First%20Prize-UIT%20Challenge%202024-FFD700?style=for-the-badge&labelColor=0D1117" alt="First Prize — UIT Challenge 2024"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/medal_silver.svg" height="20" align="absmiddle"/>
+<img src="https://img.shields.io/badge/Top%202-VLSP%202025%20%C2%B7%20Semantic%20Parsing-C0C0C0?style=for-the-badge&labelColor=0D1117" alt="Top 2 — VLSP 2025 Semantic Parsing"/>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/medal_bronze.svg" height="20" align="absmiddle"/>
+<img src="https://img.shields.io/badge/Top%206-VLSP%202025%20%C2%B7%20Numerical%20Reasoning-CD7F32?style=for-the-badge&labelColor=0D1117" alt="Top 6 — VLSP 2025 Numerical Reasoning"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/nhonhoccode/nhonhoccode/main/assets/icons/medal_gold.svg" height="20" align="absmiddle"/>
+<img src="https://img.shields.io/badge/1st%20Leaderboard-Sarcasm%20UITC%202024%20%C2%B7%20F1%2044.75%25-FFD700?style=for-the-badge&labelColor=0D1117" alt="1st Leaderboard — Multimodal Sarcasm UITC 2024"/>
+</p>
 
 </div>
 
@@ -350,8 +358,8 @@ flowchart LR
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhonhoccode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="GitHub stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhonhoccode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&langs_count=8" alt="Top languages"/>
+<img height="180em" src="https://github-readme-stats.hackclub.dev/api?username=nhonhoccode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=nhonhoccode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&langs_count=8" alt="Top languages"/>
 
 <br/>
 

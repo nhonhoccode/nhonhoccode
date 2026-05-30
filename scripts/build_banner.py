@@ -71,7 +71,7 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org
 
   <!-- text block -->
   <text x="310" y="128" fill="#FFFFFF" font-size="48" font-weight="800" letter-spacing="0.5">Vo Trong Nhon</text>
-  <text x="312" y="168" fill="#58A6FF" font-size="21" font-weight="600">DevOps Engineer &#183; MLOps &#183; AI Apps &#183; Full-stack</text>
+  <text x="312" y="168" fill="#58A6FF" font-size="21" font-weight="600">DevOps Engineer &#183; MLOps &#183; AI Engineer &#183; Full-stack</text>
   <rect x="313" y="184" width="360" height="3" rx="1.5" fill="url(#ring)"/>
   <text x="313" y="232" fill="#5B7186" font-size="15" font-family="Consolas, Menlo, monospace">Docker &#183; Kubernetes &#183; Cloud &#183; CI/CD &#183; MLOps &#183; AI &#183; Web &#183; DevOps</text>
 </svg>
