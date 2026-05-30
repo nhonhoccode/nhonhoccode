@@ -11,11 +11,10 @@
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+reliable+platforms+for+AI+%26+Data;CI%2FCD+%E2%80%A2+Self-hosted+infra+%E2%80%A2+Observability;MLOps+%7C+Docker+%7C+Proxmox+%7C+Airflow+%7C+MLflow;Turning+data+pipelines+into+production+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+%26+operating+reliable+systems+%E2%9A%99%EF%B8%8F;DevOps+%E2%80%A2+MLOps+%E2%80%A2+AI+Applications+%F0%9F%A4%96;Full-stack+Web+%E2%80%A2+from+idea+to+deployed+release+%F0%9F%9A%80;Curious+about+Quant+Finance%2C+Investing+%26+Startups+%F0%9F%93%88)](https://git.io/typing-svg)
 
 <!-- ====================== SOCIAL / STATUS BADGES ====================== -->
-<!-- TODO: replace LINKEDIN_URL below with your real LinkedIn profile link -->
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/maximus-nhon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:votrongnhonwork29324@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/nhonhoccode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City-Vietnam-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -28,24 +27,49 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td valign="top" width="62%">
+
 ```yaml
 name: "Vo Trong Nhon"
 role: "DevOps Engineer @ BlueBolt"
 based_in: "Ho Chi Minh City, Vietnam"
-focus:
-  - "Reliable platforms for AI, Data Engineering & Analytics"
-  - "CI/CD, self-hosted infrastructure, observability"
-  - "Production operations for ML services & data pipelines"
-currently_learning:
-  - "Cloud" 
-  - "Cybersecurity"
-  - "Full-stack web"
-  - "Quantitative finance (foundations)"
+i_love:
+  - "Building & operating systems (DevOps mindset)"
+  - "Shipping AI applications to production"
+  - "Full-stack web — idea → deployed release"
+also_exploring:
+  - "Quantitative Finance"
+  - "Investing"
+  - "Entrepreneurship / Startups"
 education: "B.Sc. Data Science @ IUH — GPA 3.6/4.0"
 philosophy: "Automate everything that can be automated."
 ```
 
-I’m a **DevOps engineer** who builds and operates the systems that let data scientists, data engineers, and analysts ship to production with confidence — from **CI/CD pipelines** and **self-hosted infrastructure** to **MLOps orchestration**, **observability**, and **24/7 production operations**.
+</td>
+<td valign="top" width="38%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding"/>
+
+</td>
+</tr>
+</table>
+
+I’m a **DevOps engineer** who loves building and running the systems that let teams ship with confidence — from **CI/CD** and **self-hosted infrastructure** to **MLOps**, **observability**, and **production operations**. I also build **AI applications** and **full-stack web products** end-to-end, and I'm steadily exploring **quantitative finance, investing, and entrepreneurship** on the side.
+
+### 🎯 What I'm Into
+
+<p>
+<img src="https://img.shields.io/badge/⚙️_Systems_&_DevOps-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_AI_Applications-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Full--stack_Web-0F2027?style=for-the-badge"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/📈_Quant_Finance-1a1a2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💰_Investing-16213e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Entrepreneurship-0f3460?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -110,6 +134,15 @@ I’m a **DevOps engineer** who builds and operates the systems that let data sc
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS%20%C2%B7%20SSL-2C5364?style=flat-square&logo=letsencrypt&logoColor=white)
+
+#### 🕸️ Web & Full-stack
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 #### 📊 MLOps, Orchestration & Observability
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
@@ -304,8 +337,7 @@ I’m a **DevOps engineer** who builds and operates the systems that let data sc
 <div align="center">
 
 <a href="mailto:votrongnhonwork29324@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!-- TODO: replace LINKEDIN_URL with your real LinkedIn profile link -->
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/maximus-nhon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/nhonhoccode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
