@@ -348,6 +348,11 @@ flowchart LR
 
 <div align="center">
 
+<img height="170em" src="https://github-readme-stats.hackclub.dev/api?username=nhonhoccode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2c9ef7&icon_color=2c9ef7" alt="GitHub stats"/>
+<img height="170em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=nhonhoccode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9ef7&langs_count=8" alt="Top languages"/>
+
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=nhonhoccode&theme=tokyonight&hide_border=true&background=0D1117&ring=2c9ef7&fire=2c9ef7&currStreakLabel=2c9ef7" alt="GitHub streak"/>
 
 </div>
