@@ -21,6 +21,31 @@
 
 ---
 
+## 🎯 Career Objective
+
+> **DevOps engineer** building and operating **reliable platforms for AI, data science, data engineering & analytics**. Experienced in **CI/CD, self-hosted infrastructure, observability**, and **production operations** for ML services, data pipelines, and internal developer environments. Long term, I aim to expand into **cloud, cybersecurity, full-stack web, and foundational quantitative finance**.
+
+---
+
+## 📫 Contact
+
+<table>
+<tr>
+<td>📧 <b>Email</b></td>
+<td><a href="mailto:votrongnhonwork29324@gmail.com">votrongnhonwork29324@gmail.com</a></td>
+<td>💼 <b>LinkedIn</b></td>
+<td><a href="https://www.linkedin.com/in/maximus-nhon/">in/maximus-nhon</a></td>
+</tr>
+<tr>
+<td>🐙 <b>GitHub</b></td>
+<td><a href="https://github.com/nhonhoccode">@nhonhoccode</a></td>
+<td>📍 <b>Location</b></td>
+<td>Ho Chi Minh City, Vietnam</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 About Me
 
 <table>
@@ -31,7 +56,7 @@
 name:           "Vo Trong Nhon"
 role:           "DevOps Engineer @ BlueBolt"
 based_in:       "Ho Chi Minh City, Vietnam"
-education:      "B.Sc. Data Science @ IUH (GPA 3.6/4.0)"
+field:          "B.Sc. in Data Science"
 philosophy:     "Automate everything that can be automated."
 ```
 
@@ -109,72 +134,29 @@ investing, and entrepreneurship** on the side.
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+<!-- core stack as a unified icon grid -->
+<img src="https://skillicons.dev/icons?i=python,mysql,docker,kubernetes,aws,gitlab,githubactions,linux,bash,nginx,cloudflare,prometheus,grafana,fastapi,django,flask,react,nextjs,ts,tailwind,tensorflow,pytorch,sklearn&perline=12&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
 <table>
 <tr>
-<td valign="top"><b>💻 Languages &amp; Data</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</td>
+<td align="center">🏗️ <b>Platform &amp; Infra</b></td>
+<td>Proxmox VE · pfSense · Nginx Proxy Manager · aaPanel · DirectAdmin · Bunny.net · DNS/SSL</td>
 </tr>
 <tr>
-<td valign="top"><b>⚙️ DevOps &amp; CI/CD</b></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-</td>
+<td align="center">📊 <b>MLOps &amp; Data</b></td>
+<td>MLflow · Airflow · Prefect · DuckDB · Pandas · Jupyter · SQL Server · Power BI</td>
 </tr>
 <tr>
-<td valign="top"><b>🌐 Infra &amp; Hosting</b></td>
-<td>
-<img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
-<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/DNS%20%C2%B7%20SSL-2C5364?style=flat-square&logo=letsencrypt&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>🕸️ Web &amp; Full-stack</b></td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>📊 MLOps &amp; Observability</b></td>
-<td>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>🤖 AI / ML</b></td>
-<td>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/LightGBM-2C5364?style=flat-square&logo=tree&logoColor=white"/>
-</td>
+<td align="center">🤖 <b>ML Toolbox</b></td>
+<td>XGBoost · LightGBM · OpenCV · ViT / Transformers · Ensemble methods</td>
 </tr>
 </table>
+
+</div>
 
 ---
 
